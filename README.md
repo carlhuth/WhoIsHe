@@ -2,5 +2,5 @@
 Tool used to perform effective DNS spoofing.
 
  - Needed dependencies:
-      Scapy (https://pypi.python.org/pypi/scapy)
+      Scapy (https://pypi.python.org/pypi/scapy)\n
       NetfilterQueue (https://pypi.python.org/pypi/NetfilterQueue/0.3)
